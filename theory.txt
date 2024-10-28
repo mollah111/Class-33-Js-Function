@@ -1,0 +1,13 @@
+
+
+function functionName ()
+{
+    //Body....
+}
+
+
+===========DOM===========
+
+DOM = Document Object Model
+Event = Onclick, Onchange, Onkeyup, onkeydown, onblur, onmouseover, onmouseout, onkeypress, onSubmit,
+        Onload, onScroll
